@@ -7,3 +7,4 @@
 * Assignment #3  :heavy_check_mark:
 * Assignment #4  :heavy_check_mark:
 * Assignment #5  :heavy_check_mark:
+* Assignment #6  :heavy_check_mark:
